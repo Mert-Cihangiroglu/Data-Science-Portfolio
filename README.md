@@ -25,4 +25,5 @@ Repository containing portfolio of data science projects completed for academic,
 
 ### Course Work
 
-* __[Emotion Recognition](https://github.com/Mert-Cihangiroglu/Wealth-Nations_DataVisualization)__: Data Visualization on Wealth Nations Dataset.
+* __[Data Visualization](https://github.com/Mert-Cihangiroglu/Wealth-Nations_DataVisualization)__: Data Visualization on Wealth Nations Dataset.
+* __[Statistical Analysis on EFSA dataset ](https://github.com/Mert-Cihangiroglu/Efsa_Mini_Project)__: Perfomed statistical analysis and feature selection on EFSA dataset for the Statistical Learning course in my Master's Degree.
