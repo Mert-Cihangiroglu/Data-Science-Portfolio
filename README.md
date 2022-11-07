@@ -13,7 +13,7 @@ Repository containing portfolio of data science projects completed for academic,
 * __[Emotion Recognition](https://github.com/Mert-Cihangiroglu/Senior-Project)__: Basic CNN model and Transfer Learning Techniques used to predict emotions of people from given images.
 * __[Object Detection](https://github.com/Mert-Cihangiroglu/Object-Detection-on-Video)__: Object Detection in sequences of frames.
 * __[Dog Breed Classification](https://github.com/Mert-Cihangiroglu/Dog_Breed_Classification/blob/master/Fast_Ai_1.ipynb)__: Implementation of a Dog breed classification with FastAi Library.
-
+* __[UAV Detection](https://github.com/Mert-Cihangiroglu/UAV_DETECTION)__: Detection of UAV's with the help of YOLOv3.
 ### Natural Language Processing 
 
 
@@ -27,3 +27,5 @@ Repository containing portfolio of data science projects completed for academic,
 
 * __[Data Visualization](https://github.com/Mert-Cihangiroglu/Wealth-Nations_DataVisualization)__: Data Visualization on Wealth Nations Dataset.
 * __[Statistical Analysis on EFSA dataset ](https://github.com/Mert-Cihangiroglu/Efsa_Mini_Project)__: Perfomed statistical analysis and feature selection on EFSA dataset for the Statistical Learning course in my Master's Degree.
+
+
