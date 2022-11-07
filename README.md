@@ -2,9 +2,9 @@
 * My __[LinkedIn](https://www.linkedin.com/in/mertcihangiroglu/)__
 * Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes.
 
-## Masters thesis
+### Masters thesis
 * Topic: Satellite-based detection of illegal manure application in farmland parcels - Supervisor: Prof. Dell'Acqua
-## Published Articles
+### Published Articles
 *  __[Gradient Descent](https://iq.opengenus.org/types-of-gradient-descent/)__: I explained how gradient descent works mathematically, and its varients to improve performance.
 ### Machine Learning:
 * __[Unsupervised Learning / Clustering Iris Dataset](https://github.com/Mert-Cihangiroglu/Iris_Kmeans)__: Implementation of K-Means Algorithm without any ready library functions.
