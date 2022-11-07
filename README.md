@@ -4,7 +4,8 @@
 
 ## Masters thesis
 * Topic: Satellite-based detection of illegal manure application in farmland parcels - Supervisor: Prof. Dell'Acqua
-
+## Published Articles
+*  __[Gradient Descent](https://iq.opengenus.org/types-of-gradient-descent/)__: I explained how gradient descent works mathematically, and its varients to improve performance.
 ### Machine Learning:
 * __[Unsupervised Learning / Clustering Iris Dataset](https://github.com/Mert-Cihangiroglu/Iris_Kmeans)__: Implementation of K-Means Algorithm without any ready library functions.
 
