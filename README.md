@@ -2,8 +2,8 @@
 * My __[LinkedIn](https://www.linkedin.com/in/mertcihangiroglu/)__
 * Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes.
 
-## [Masters thesis: Satellite-based detection of illegal manure application in farmland parcels.]
-* Supervisor: Prof. Dell'Acqua
+## Masters thesis
+* Topic: Satellite-based detection of illegal manure application in farmland parcels - Supervisor: Prof. Dell'Acqua
 
 ### Machine Learning:
 * __[Unsupervised Learning / Clustering Iris Dataset](https://github.com/Mert-Cihangiroglu/Iris_Kmeans)__: Implementation of K-Means Algorithm without any ready library functions.
