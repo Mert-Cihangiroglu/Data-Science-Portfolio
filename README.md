@@ -11,6 +11,8 @@ Repository containing portfolio of data science projects completed for academic,
 ### Computer Vision 
 * __[Yolov3 Fine Tuning](https://github.com/Mert-Cihangiroglu/Fine-Tuning-Yolov3)__: Fine tuning the Yolov3 model with your custom dataset to improve performance.
 * __[Emotion Recognition](https://github.com/Mert-Cihangiroglu/Senior-Project)__: Basic CNN model and Transfer Learning Techniques used to predict emotions of people from given images.
+* __[Object Detection](https://github.com/Mert-Cihangiroglu/Object-Detection-on-Video)__: Object Detection in sequences of frames.
+* __[Dog Breed Classification](https://github.com/Mert-Cihangiroglu/Dog_Breed_Classification/blob/master/Fast_Ai_1.ipynb)__: Implementation of a Dog breed classification with FastAi Library.
 
 ### Natural Language Processing 
 
@@ -22,3 +24,5 @@ Repository containing portfolio of data science projects completed for academic,
 
 
 ### Course Work
+
+* __[Emotion Recognition](https://github.com/Mert-Cihangiroglu/Wealth-Nations_DataVisualization)__: Data Visualization on Wealth Nations Dataset.
