@@ -9,7 +9,7 @@ Repository containing portfolio of data science projects completed for academic,
 
 
 ### Computer Vision 
-
+* __[Yolov3 Fine Tuning](https://github.com/Mert-Cihangiroglu/Fine-Tuning-Yolov3)__: Fine tuning the Yolov3 model with your custom dataset to improve performance
 ### Natural Language Processing 
 
 
