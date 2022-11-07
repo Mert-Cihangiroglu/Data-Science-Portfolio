@@ -6,7 +6,7 @@ Repository containing portfolio of data science projects completed for academic,
 * Supervisor: Prof. Dell'Acqua
 
 ### Machine Learning:
-
+* __[Unsupervised Learning / Clustering Iris Dataset](https://github.com/Mert-Cihangiroglu/Iris_Kmeans)__: Implementation of K-Means Algorithm without any ready library functions.
 
 ### Computer Vision 
 * __[Yolov3 Fine Tuning](https://github.com/Mert-Cihangiroglu/Fine-Tuning-Yolov3)__: Fine tuning the Yolov3 model with your custom dataset to improve performance.
@@ -14,6 +14,7 @@ Repository containing portfolio of data science projects completed for academic,
 * __[Object Detection](https://github.com/Mert-Cihangiroglu/Object-Detection-on-Video)__: Object Detection in sequences of frames.
 * __[Dog Breed Classification](https://github.com/Mert-Cihangiroglu/Dog_Breed_Classification/blob/master/Fast_Ai_1.ipynb)__: Implementation of a Dog breed classification with FastAi Library.
 * __[UAV Detection](https://github.com/Mert-Cihangiroglu/UAV_DETECTION)__: Detection of UAV's with the help of YOLOv3.
+
 ### Natural Language Processing 
 
 
