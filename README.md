@@ -24,7 +24,8 @@
 
 ### Certificates 
 * __[Machine Learning Crash Course by Google]()__: Credential ID 948342822658
-* __[Python for Data Science and AI](https://www.coursera.org/account/accomplishments/verify/C5H4W4VVJEZV)__: 
+* __[Python for Data Science and AI](https://www.coursera.org/account/accomplishments/verify/C5H4W4VVJEZV)__
+
 ### Course Work
 
 * __[Data Visualization](https://github.com/Mert-Cihangiroglu/Wealth-Nations_DataVisualization)__: Data Visualization on Wealth Nations Dataset.
