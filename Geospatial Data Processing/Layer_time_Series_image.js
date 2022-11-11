@@ -79,8 +79,7 @@ function maskCloudAndShadows(image) {
   
   //var evi2weekList= collection.toList(999);
   // var evi2week2ndImage=ee.Image(ee.List(evi2weekList).get(1)); //note index 0 is the first image
-  //print('2ndImage from evi2week imColl',evi2week2ndImage)
-  
+  //print('2ndImage from evi2week imColl',evi2week2ndImage) 
   print(ee.Image('COPERNICUS/S2_SR/20220605T101559_20220605T102306_T32TMR'))
   
   var image_1 = ee.Image('COPERNICUS/S2_SR/20210309T100739_20210309T101254_T32TNR')
@@ -89,10 +88,8 @@ function maskCloudAndShadows(image) {
   // Add First Date
   Map.addLayer(image_1, vizParams, 'false color composite')  
   // Add Second Date
-  
   Map.addLayer(image_2, vizParams, 'false color composite')  
   // Add Third Date
-  
   Map.addLayer(image_3, vizParams, 'false color composite')  
   // Draw POLYGON
   Map.addLayer(polygon,
