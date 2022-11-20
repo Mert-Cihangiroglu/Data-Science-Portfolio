@@ -18,7 +18,7 @@
 * __[UAV Detection](https://github.com/Mert-Cihangiroglu/UAV_DETECTION)__: Detection of UAV's with the help of YOLOv3.
 
 ### Natural Language Processing 
-* __[Speech Recognition Flask App](https://github.com/Mert-Cihangiroglu/speech-recognition-flask-app)__:  Built a Flask App that gets a WAV file, and with the help of Speech Recognition library, prints the transcription.
+* __[Speech Recognition Flask App](https://github.com/Mert-Cihangiroglu/speech-recognition-flask-app)__:  Built a Flask App that gets a WAV file, and with the help of Speech Recognition library, prints the transcript.
 
 ### Data Analysis 
 
