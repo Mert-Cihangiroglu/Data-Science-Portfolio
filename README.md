@@ -6,6 +6,7 @@
 * Topic: Satellite-based detection of illegal manure application in farmland parcels - Supervisor: Prof. Dell'Acqua
 ### Published Articles
 *  __[Gradient Descent](https://iq.opengenus.org/types-of-gradient-descent/)__: I explained how gradient descent works mathematically, and its varients to improve performance.
+__[Overfitting](https://iq.opengenus.org/p/ca54d111-7eed-4037-9230-bbf19878677e/)__: My article about what is overfitting, how to detect it, and how to avoid it.
 ### Machine Learning:
 * __[Unsupervised Learning / Clustering Iris Dataset](https://github.com/Mert-Cihangiroglu/Iris_Kmeans)__: Implementation of K-Means Algorithm without any ready library functions.
 
