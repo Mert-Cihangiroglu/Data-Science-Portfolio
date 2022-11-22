@@ -11,14 +11,14 @@
 * __[Unsupervised Learning / Clustering Iris Dataset](https://github.com/Mert-Cihangiroglu/Iris_Kmeans)__: Implementation of K-Means Algorithm without any ready library functions.
 
 ### Computer Vision 
-* __[Yolov3 Fine Tuning](https://github.com/Mert-Cihangiroglu/Fine-Tuning-Yolov3)__: Fine tuning the Yolov3 model with your custom dataset to improve performance.
-* __[Emotion Recognition](https://github.com/Mert-Cihangiroglu/Senior-Project)__: Basic CNN model and Transfer Learning Techniques used to predict emotions of people from given images.
+* __[Yolov3 Fine Tuning](https://github.com/Mert-Cihangiroglu/Fine-Tuning-Yolov3)__: Fine tuning the Yolov3 model with custom dataset to improve performance.
+* __[Emotion Recognition](https://github.com/Mert-Cihangiroglu/Senior-Project)__: Basic CNN model and Transfer Learning Techniques to predict emotions of people from given images.
 * __[Object Detection](https://github.com/Mert-Cihangiroglu/Object-Detection-on-Video)__: Object Detection in sequences of frames.
 * __[Dog Breed Classification](https://github.com/Mert-Cihangiroglu/Dog_Breed_Classification/blob/master/Fast_Ai_1.ipynb)__: Implementation of a Dog breed classification with FastAi Library.
-* __[UAV Detection](https://github.com/Mert-Cihangiroglu/UAV_DETECTION)__: Detection of UAV's with the help of YOLOv3.
+* __[UAV Detection](https://github.com/Mert-Cihangiroglu/UAV_DETECTION)__: Detection of UAV's with YOLOv3.
 
 ### Natural Language Processing 
-* __[Speech Recognition Flask App](https://github.com/Mert-Cihangiroglu/speech-recognition-flask-app)__:  Built a Flask App that gets a WAV file, and with the help of Speech Recognition library, prints the transcript.
+* __[Speech Recognition Flask App](https://github.com/Mert-Cihangiroglu/speech-recognition-flask-app)__:  Built a Flask App that gets a WAV file, and with Speech Recognition library, prints the transcripts.
 
 ### Data Analysis 
 
