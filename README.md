@@ -7,6 +7,7 @@
 ### Published Articles
 *  __[Gradient Descent](https://iq.opengenus.org/types-of-gradient-descent/)__: I explained how gradient descent works mathematically, and its varients to improve performance.
 *  __[Overfitting](https://iq.opengenus.org/p/ca54d111-7eed-4037-9230-bbf19878677e/)__: My article about what is overfitting, how to detect it, and how to avoid it.
+*  __[Cost Functions](https://iq.opengenus.org/p/0e969b4a-6359-4bcd-a352-23f4100356c3/)__: My article about cost functions. Covered cost functions include: MSE, RMSE, MAE, MBE, Cross Entropy.
 ### Machine Learning:
 * __[Unsupervised Learning / Clustering Iris Dataset](https://github.com/Mert-Cihangiroglu/Iris_Kmeans)__: Implementation of K-Means Algorithm without any ready library functions.
 
